@@ -1,6 +1,6 @@
 using System;
 
-public class Problem2
+public class Problem3
 {
     public static void Main(string[] args)
     {
